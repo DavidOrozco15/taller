@@ -8,3 +8,5 @@ base = int(input("Introduce el numero de '*' deseados para la base del triangulo
 
 for i in range(1, base+1):
     print("*"*i)
+    
+    # made by Leonardo Vanegas and Juan Gamboa         

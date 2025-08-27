@@ -16,3 +16,5 @@ if (promedio) >= 3.0:
     print(f"El estudiante aprobó con un promedio de: {promedio}")
 else:
     print(f"El estudiante reprobó con un promedio de: {promedio}")
+    
+    # made by Leonardo Vanegas and Juan Gamboa         

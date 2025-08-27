@@ -16,4 +16,6 @@ else:
     mayor = numero3
     
 print(f"El numero mayor es: {mayor}")    
+
+# made by Leonardo Vanegas and Juan Gamboa         
 1
