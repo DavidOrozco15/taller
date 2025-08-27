@@ -3,6 +3,7 @@ import os
 
 os.system("clear")
 
+print("Bienvenido al conversor de monedas COP, USD y JPY")
 nombre = input("Ingresa tu nombre completo: ")
 cc = int(input("Ingresa tu número de cédula: "))
 
