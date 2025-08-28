@@ -12,7 +12,7 @@ nota5 = float(input("Introduce la quinta nota: "))
 
 promedio = (nota1 + nota2 + nota3 + nota4 + nota5) / 5
 
-if (promedio) >= 3.0:
+if (promedio) >= 3.5:
     print(f"El estudiante aprobó con un promedio de: {promedio}")
 else:
     print(f"El estudiante reprobó con un promedio de: {promedio}")
